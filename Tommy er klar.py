@@ -3,3 +3,6 @@
 message = "mission complete"
 print(message)
 print(message*2)
+print(message*3)
+
+
